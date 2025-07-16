@@ -43,4 +43,4 @@ Este sistema usa o terminal como um agente virtual que vai le auxilia na busca p
 
 [clique ou copiá, para ver o vídeo](https://youtu.be/Hk7AFqTp7gE)
 
-Ao clicar ou copiá Link, voce via ser direcionado para o yutube.
+Ao clicar, voce via ser direcionado para o yutube.
